@@ -1,17 +1,20 @@
-* {
-  margin:0px;
-  padding:0px;
+h1 {
+  font: 4em Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
+h2 {
+  font: 3em Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+}
+
+h3 {
+  font: 2em Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  text-decoration: underline;
 }
 
 p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 1.5em Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+}
+
+div {
+  margin: 1em;
 }
